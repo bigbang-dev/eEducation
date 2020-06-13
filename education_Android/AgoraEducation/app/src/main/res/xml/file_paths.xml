@@ -2,7 +2,7 @@
 <paths>
     <external-path
         name="files_root"
-        path="Android/data/io.agora.education/" />
+        path="Android/data/com.bigbang/" />
     <external-path
         name="download"
         path="Download/" />

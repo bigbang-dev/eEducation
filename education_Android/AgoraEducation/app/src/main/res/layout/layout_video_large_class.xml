@@ -36,7 +36,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 
-    <io.agora.education.classroom.widget.RtcAudioView
+    <com.bigbang.classroom.widget.RtcAudioView
         android:id="@+id/ic_audio"
         android:layout_width="@dimen/dp_30"
         android:layout_height="@dimen/dp_30"
