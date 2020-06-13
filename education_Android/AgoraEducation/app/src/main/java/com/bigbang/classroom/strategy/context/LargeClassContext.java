@@ -21,7 +21,7 @@ import com.bigbang.classroom.bean.channel.User;
 import com.bigbang.classroom.bean.msg.PeerMsg;
 import com.bigbang.classroom.strategy.ChannelStrategy;
 import com.bigbang.log.service.RoomService;
-import com.bigbang.log.service.bean.request.CoVideoReq;
+import com.bigbang.service.bean.request.CoVideoReq;
 import io.agora.rtc.Constants;
 import com.bigbang.sdk.manager.RtcManager;
 

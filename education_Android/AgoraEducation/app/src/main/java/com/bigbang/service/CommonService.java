@@ -1,10 +1,10 @@
-package com.bigbang.log.service;
+package com.bigbang.service;
 
 import java.util.Map;
 
 import com.bigbang.BuildConfig;
-import com.bigbang.log.service.bean.ResponseBody;
-import com.bigbang.log.service.bean.response.AppVersionRes;
+import com.bigbang.service.bean.ResponseBody;
+import com.bigbang.service.bean.response.AppVersionRes;
 import retrofit2.Call;
 import retrofit2.http.GET;
 

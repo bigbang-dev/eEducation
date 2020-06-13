@@ -1,4 +1,4 @@
-package com.bigbang.log.service.bean.response;
+package com.bigbang.service.bean.response;
 
 import java.util.Map;
 

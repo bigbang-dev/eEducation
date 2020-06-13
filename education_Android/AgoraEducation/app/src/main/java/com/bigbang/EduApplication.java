@@ -3,15 +3,16 @@ package com.bigbang;
 import android.app.Application;
 
 import androidx.annotation.Nullable;
+import androidx.multidex.MultiDexApplication;
 
 import java.util.Map;
 
 import com.bigbang.base.PreferenceManager;
 import com.bigbang.base.ToastManager;
 import com.bigbang.log.LogManager;
-import com.bigbang.log.service.bean.response.AppConfigRes;
+import com.bigbang.service.bean.response.AppConfigRes;
 
-public class EduApplication extends Application {
+public class EduApplication extends MultiDexApplication {
 
     public static EduApplication instance;
 

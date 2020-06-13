@@ -12,6 +12,8 @@ import com.alibaba.sdk.android.oss.common.auth.OSSStsTokenCredentialProvider;
 import com.alibaba.sdk.android.oss.model.PutObjectRequest;
 import com.alibaba.sdk.android.oss.model.PutObjectResult;
 import com.bigbang.base.Callback;
+import com.bigbang.log.service.bean.ResponseBody;
+import com.bigbang.log.service.bean.response.LogParamsRes;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 
@@ -20,8 +22,7 @@ import java.util.HashMap;
 
 import com.bigbang.base.network.RetrofitManager;
 import com.bigbang.log.service.LogService;
-import com.bigbang.log.service.bean.ResponseBody;
-import com.bigbang.log.service.bean.response.LogParamsRes;
+
 
 public class UploadManager {
 

@@ -24,9 +24,9 @@ import com.bigbang.classroom.BaseClassActivity;
 import com.bigbang.classroom.ReplayActivity;
 import com.bigbang.classroom.adapter.MessageListAdapter;
 import com.bigbang.classroom.bean.msg.ChannelMsg;
-import com.bigbang.log.service.RecordService;
+import com.bigbang.service.RecordService;
 import com.bigbang.log.service.RoomService;
-import com.bigbang.log.service.bean.request.ChatReq;
+import com.bigbang.service.bean.request.ChatReq;
 
 import static com.bigbang.classroom.bean.msg.ChannelMsg.ChatMsg.Type.TEXT;
 

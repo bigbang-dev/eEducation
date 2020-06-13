@@ -1,7 +1,7 @@
-package com.bigbang.log.service;
+package com.bigbang.service;
 
-import com.bigbang.log.service.bean.ResponseBody;
-import com.bigbang.log.service.bean.response.RecordRes;
+import com.bigbang.service.bean.ResponseBody;
+import com.bigbang.service.bean.response.RecordRes;
 import retrofit2.Call;
 import retrofit2.http.GET;
 import retrofit2.http.Path;

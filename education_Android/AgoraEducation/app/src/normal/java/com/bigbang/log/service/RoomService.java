@@ -1,13 +1,13 @@
 package com.bigbang.log.service;
 
-import com.bigbang.log.service.bean.ResponseBody;
-import com.bigbang.log.service.bean.request.ChatReq;
-import com.bigbang.log.service.bean.request.CoVideoReq;
-import com.bigbang.log.service.bean.request.RoomEntryReq;
-import com.bigbang.log.service.bean.request.UserReq;
-import com.bigbang.log.service.bean.response.RoomBoardRes;
-import com.bigbang.log.service.bean.response.RoomEntryRes;
-import com.bigbang.log.service.bean.response.RoomRes;
+import com.bigbang.service.bean.ResponseBody;
+import com.bigbang.service.bean.request.ChatReq;
+import com.bigbang.service.bean.request.CoVideoReq;
+import com.bigbang.service.bean.request.RoomEntryReq;
+import com.bigbang.service.bean.request.UserReq;
+import com.bigbang.service.bean.response.RoomBoardRes;
+import com.bigbang.service.bean.response.RoomEntryRes;
+import com.bigbang.service.bean.response.RoomRes;
 import retrofit2.Call;
 import retrofit2.http.Body;
 import retrofit2.http.GET;

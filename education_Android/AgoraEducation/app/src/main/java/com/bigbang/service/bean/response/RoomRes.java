@@ -1,4 +1,4 @@
-package com.bigbang.log.service.bean.response;
+package com.bigbang.service.bean.response;
 
 import com.bigbang.classroom.bean.channel.Room;
 import com.bigbang.classroom.bean.channel.User;

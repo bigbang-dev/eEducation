@@ -11,7 +11,7 @@ import com.bigbang.base.network.BusinessException;
 import com.bigbang.base.network.RetrofitManager;
 import com.bigbang.EduApplication;
 import com.bigbang.R;
-import com.bigbang.log.service.bean.ResponseBody;
+import com.bigbang.service.bean.ResponseBody;
 
 public class BaseCallback<T> extends RetrofitManager.Callback<ResponseBody<T>> {
 

@@ -1,4 +1,4 @@
-package com.bigbang.log.service.bean.request;
+package com.bigbang.service.bean.request;
 
 import com.bigbang.classroom.bean.msg.ChannelMsg;
 
